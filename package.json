@@ -10,7 +10,8 @@
     "slushgenerator",
     "duo"
   ],
-  "author": "rogerz",
+  "author": "rogerz <rogerz.zhang@gmail.com>",
+  "repository": "rogerz/slush-duo",
   "license": "MIT",
   "dependencies": {
     "gulp": "^3.8.11",
