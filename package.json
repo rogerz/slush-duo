@@ -1,6 +1,6 @@
 {
   "name": "slush-duo",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "slush generator for duo",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,7 @@
   "author": "rogerz",
   "license": "MIT",
   "dependencies": {
+    "gulp": "^3.8.11",
     "gulp-conflict": "^0.4.0",
     "gulp-install": "^0.4.0",
     "gulp-template": "^3.0.0",
